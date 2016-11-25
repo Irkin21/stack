@@ -1,0 +1,6 @@
+D:\PRoject\Stack\Stack\bin\Debug\Stack.exe.config
+D:\PRoject\Stack\Stack\bin\Debug\Stack.exe
+D:\PRoject\Stack\Stack\bin\Debug\Stack.pdb
+D:\PRoject\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+D:\PRoject\Stack\Stack\obj\Debug\Stack.exe
+D:\PRoject\Stack\Stack\obj\Debug\Stack.pdb
